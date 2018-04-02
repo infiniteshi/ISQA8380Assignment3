@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'blog',
+    'watson-developer-cloud',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
